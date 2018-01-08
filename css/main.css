@@ -70,15 +70,13 @@ body {
     display: inline-block;
     width: 80%;
   }
-
-  .card-body h2 {
-    margin: 0;
-  }
-
   .card-body p {
     margin-top: 0;
   }
 
+  .card-body h2 {
+    margin: 0;
+  }
 }
 
 @media only screen and (min-width: 38em) {
